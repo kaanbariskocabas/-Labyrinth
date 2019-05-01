@@ -1,2 +1,2 @@
 # -Labyrinth
-Creating a artificial intelligence application with qlearning algorithm
+Creating an artificial intelligence application with qlearning algorithm
